@@ -3,9 +3,9 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>kr.ac.hansung</groupId>
-	<artifactId>hansungSugang</artifactId>
-	<name>hansungSugang</name>
+	<groupId>HJJHTrip</groupId>
+	<artifactId>HJJHTrip</artifactId>
+	<name>HJJHTrip</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
